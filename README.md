@@ -3,6 +3,8 @@ I'm archiving this for the world to see.
 
 The original source is Marc Laidlaw's website, at marclaidlaw.com/epistle-3/ However, the immense traffic has killed his site. You can view a Wayback Machine version of that page, or the hosted version here on GitHub.
 
+If you want a little more info, watch this video by ValveNewsNetwork: https://www.youtube.com/watch?v=urza2sbU68Q
+
 Here you can view the original version, as well as my corrected version which has all the obfuscated names switched back to the real names.
 
 
