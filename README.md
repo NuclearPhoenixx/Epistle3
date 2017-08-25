@@ -5,14 +5,25 @@ Here you can view the original version, as well as my corrected version which ha
 
 If you want to know what I changed in the name swaps, I made a rough list here:
 
+
 "Playa" 			      : "Player"
+
 "Gertie Fremont" 	  : "Gordon Freeman"
+
 "Gertrude Fremont" 	: "Gordon Freeman"
+
 "Hyperborea" 		    : "Borealis"
+
 "Mrs. X" 			      : "G-Man"
+
 "Disparate" 		    : "Combine"
+
 "Jerry Maas" 		    : "Judith Mossman"
+
 "Alex Vaunt" 		    : "Alyx Vance"
+
 "Ghastlyhaunts" 	  : "Vortigaunts"
+
 "Elly Vaunt" 	    	: "Eli Vance"
+
 "Tocsin Island"     : "Aperture Science"
