@@ -1,6 +1,6 @@
 # Episode 3
 
-Dearest Player,
+Lieber Spieler,
 
 I hope this letter finds you well. I can hear your complaint already, "Gordon Freeman, we have not heard from you in ages!" Well, if you care to hear excuses, I have plenty, the greatest of them being I've been in other dimensions and whatnot, unable to reach you by the usual means. This was the case until eighteen months ago, when I experienced a critical change in my circumstances, and was redeposited on these shores. In the time since, I have been able to think occasionally about how best to describe the intervening years, my years of silence. I do first apologize for the wait, and that done, hasten to finally explain (albeit briefly, quickly, and in very little detail) events following those described in my previous letter (referred to herewith as Episode 2).
 
