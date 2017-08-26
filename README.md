@@ -1,33 +1,38 @@
-# Marc Laidlaw's Epistle 3 Post. August 25th, 2017.
-I'm archiving this for the world to see.
+# Эпистола Третья.<br />Пост Марка Лейдлоу от 25 августа 2017 г.
+Перевод сценария Half-Life 2: Episode Three, который в своём блоге опубликовал бывший сотрудник Valve и сценарист Half-Life, Марк Лейдлоу.
 
-The original source is Marc Laidlaw's website, at https://www.marclaidlaw.com/epistle-3/ However, the immense traffic has killed his site. You can view a Wayback Machine version of that page, or the hosted version here on GitHub.
+Форк репозитория сделан с [MarcLaidlaw-Epistle3](https://github.com/Jackathan/MarcLaidlaw-Epistle3) пользователя [Jackathan](https://github.com/Jackathan).
 
-If you want a little more info, watch this video by ValveNewsNetwork: https://www.youtube.com/watch?v=urza2sbU68Q
+<hr />
 
-Here you can view the original version, as well as my corrected version which has all the obfuscated names switched back to the real names.
+Архивирую, чтобы весь мир мог посмотреть на это.
 
+Первоначальный источник текста, сайт Марка Лейдлоу, расположен по адресу: https://www.marclaidlaw.com/epistle-3/ Однако огромный наплыв трафика «убил» его. Вы можете просмотреть копию этой страницы в архиве Wayback Machine или же здесь, на GitHub.
 
-If you want to know what I changed in the name swaps, I made a rough list here:
+Если вы хотите узнать ещё больше, просмотрите это видео ValveNewsNetwork: https://www.youtube.com/watch?v=urza2sbU68Q
 
-"Playa" 			      : "Player"
+Здесь вы можете просмотреть как оригинальную версию, так и исправленную, в которой все кодовые имена были заменены на настоящие.
 
-"Gertie Fremont" 	  : "Gordon Freeman"
+Если вы хотите знать, какие имена подверглись замене, вот их список:
 
-"Gertrude Fremont" 	: "Gordon Freeman"
+"Игрок" 			      : "Игрок" (прим. пер.: в оригинале игра слов «playa» и «player», которой в русском нет аналогов)
 
-"Hyperborea" 		    : "Borealis"
+"Герти Фремонт" 	  : "Гордон Фримен"
 
-"Mrs. X" 			      : "G-Man"
+"Гертруда Фремонт" 	: "Гордон Фримен"
 
-"Disparate" 		    : "Combine"
+"Гиперборея" 		    : "Борей" (прим. пер.: как в локализации от Буки)
 
-"Jerry Maas" 		    : "Judith Mossman"
+"Миссис X" 			    : "G-Man"
 
-"Alex Vaunt" 		    : "Alyx Vance"
+"Несравнимые" 		  : "Альянс"
 
-"Ghastlyhaunts" 	  : "Vortigaunts"
+"Джерри Маас" 		  : "Джудит Моссман"
 
-"Elly Vaunt" 	    	: "Eli Vance"
+"Алекс Вант" 		    : "Аликс Вэнс"
 
-"Tocsin Island"     : "Aperture Science"
+"Приведения" 	      : "Вортигонты"
+
+"Элли Вант" 	    	: "Илай Вэнс"
+
+"Токсинный остров"  : "Aperture Science"
