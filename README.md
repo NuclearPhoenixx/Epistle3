@@ -1,14 +1,15 @@
 # Marc Laidlaw's Epistle 3 Post. August 25th, 2017.
-I'm archiving this for the world to see.
+# Переклад на українську.
 
-The original source is Marc Laidlaw's website, at https://www.marclaidlaw.com/epistle-3/ However, the immense traffic has killed his site. You can view a Wayback Machine version of that page, or the hosted version here on GitHub.
+Я архівую це для того, щоб світ побачив це.
 
-If you want a little more info, watch this video by ValveNewsNetwork: https://www.youtube.com/watch?v=urza2sbU68Q
+Оригінальне джерело - веб-сайт Марка Лейдлоу, https://www.marclaidlaw.com/epistle-3/ Однак, величезний трафік вбив його сайт. Ви можете переглянути версію цієї сторінки у Wayback Machine, або, розміщену тут версію на GitHub.
 
-Here you can view the original version, as well as my corrected version which has all the obfuscated names switched back to the real names.
+Якщо ви хочете трохи більше інформації, перегляньте це відео від ValveNewsNetwork: https://www.youtube.com/watch?v=urza2sbU68Q
 
+Тут ви можете переглянути оригінальну версію, а також мою виправлену версію, в якій всі переплутані імена повертаються до справжніх імен.
 
-If you want to know what I changed in the name swaps, I made a rough list here:
+Якщо ви хочете дізнатись, що я змінив під заміною імен, я склав приблизний список тут:
 
 "Playa" 			      : "Player"
 
