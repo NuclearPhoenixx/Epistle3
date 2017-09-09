@@ -1,4 +1,9 @@
 # Marc Laidlaw's Epistle 3 Post. August 25th, 2017.
+
+This is an active fork of Jackathan/MarcLaidlaw-Epistle3 where I try to maintain the whole thing and merge the original pull requests and stuff.
+
+---
+
 I'm archiving this for the world to see.
 
 The original source is Marc Laidlaw's website, at https://www.marclaidlaw.com/epistle-3/ However, the immense traffic has killed his site. You can view a Wayback Machine version of that page, or the hosted version here on GitHub.
@@ -31,5 +36,7 @@ If you want to know what I changed in the name swaps, I made a rough list here:
 "Elly Vaunt" 	    	: "Eli Vance"
 
 "Tocsin Island"     : "Aperture Science"
+
+---
 
 Archive.is backup just in case Valve takes down the Original Post: https://archive.is/uJUHv
