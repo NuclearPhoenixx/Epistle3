@@ -6,7 +6,7 @@ This is an active fork of Jackathan/MarcLaidlaw-Epistle3 where I try to maintain
 
 I'm archiving this for the world to see.
 
-The original source is Marc Laidlaw's website, at https://www.marclaidlaw.com/epistle-3/ However, the immense traffic has killed his site. You can view a Wayback Machine version of that page, or the hosted version here on GitHub.
+The original source is Marc Laidlaw's website, at http://www.marclaidlaw.com/epistle-3/.
 
 If you want a little more info, watch this video by ValveNewsNetwork: https://www.youtube.com/watch?v=urza2sbU68Q
 
