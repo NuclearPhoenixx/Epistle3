@@ -1,4 +1,5 @@
 # Marc Laidlaw's Epistle 3 Post. August 25th, 2017.
+
 I'm archiving this for the world to see.
 
 The original source is Marc Laidlaw's website, at https://www.marclaidlaw.com/epistle-3/
@@ -31,3 +32,7 @@ If you want to know what I changed in the name swaps, I made a rough list here:
 "Elly Vaunt" 	    	: "Eli Vance"
 
 "Tocsin Island"     : "Aperture Science"
+
+---
+
+Archive.is backup just in case Valve takes down the Original Post: https://archive.is/uJUHv
