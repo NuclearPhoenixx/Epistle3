@@ -35,4 +35,8 @@ If you want to know what I changed in the name swaps, I made a rough list here:
 
 ---
 
-Archive.is backup just in case Valve takes down the Original Post: https://archive.is/uJUHv
+Here are some further archives of Marc Laidlaw's original post:
+
+https://archive.is/uJUHv
+
+http://web.archive.org/web/20170825025137/marclaidlaw.com/epistle-3/
