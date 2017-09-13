@@ -45,4 +45,4 @@ Here are some further archives of Marc Laidlaw's original post:
 
 https://archive.is/uJUHv
 
-http://web.archive.org/web/20170825025137/marclaidlaw.com/epistle-3/
+https://web.archive.org/web/20170825025137/marclaidlaw.com/epistle-3/
