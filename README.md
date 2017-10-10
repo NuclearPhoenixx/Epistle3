@@ -1,6 +1,6 @@
 # Marc Laidlaw's Epistle 3 Post. August 25th, 2017.
 
-![Open issues](https://img.shields.io/github/issues-raw/phoenix1747/MarcLaidlaw-Epistle3.svg?style=flat-square) ![GitHub pull requests](https://img.shields.io/github/issues-pr/phoenix1747/MarcLaidlaw-Epistle3.svg?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/phoenix1747/MarcLaidlaw-Epistle3.svg?style=flat-square) ![Hype-Meter](https://img.shields.io/badge/Hype-9000%2B-blue.svg?style=flat-square)
+![Open issues](https://img.shields.io/github/issues-raw/phoenix1747/MarcLaidlaw-Epistle3.svg?style=flat-square) ![GitHub pull requests](https://img.shields.io/github/issues-pr/phoenix1747/MarcLaidlaw-Epistle3.svg?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/phoenix1747/MarcLaidlaw-Epistle3.svg?style=flat-square) ![Hype-Meter](https://img.shields.io/badge/hype-9000%2B-blue.svg?style=flat-square)
 
 This is another fork of Jackathan/MarcLaidlaw-Epistle3 where I try to maintain the whole thing and merge the original pull requests and stuff.
 
