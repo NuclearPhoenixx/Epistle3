@@ -6,11 +6,15 @@ This is another fork of Jackathan/MarcLaidlaw-Epistle3 where I try to maintain t
 
 ---
 
-I'm archiving this for the world to see.
+I'm archiving this for the world to see in the case the blog post somehow gets deleted.
 
 The original source is Marc Laidlaw's website, at http://www.marclaidlaw.com/epistle-3/
 
 If you want a little more info, watch this video by ValveNewsNetwork: https://www.youtube.com/watch?v=urza2sbU68Q
+
+Here is another video by ValveNewsNetwork regarding the HL3 Map Leak and some Episode 3 speculation: https://www.youtube.com/watch?v=h3m7Oc08Ur0
+
+---
 
 Here you can view the original version, as well as my corrected version which has all the obfuscated names switched back to the real names.
 
