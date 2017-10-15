@@ -39,6 +39,8 @@ If you want to know what I changed in the name swaps, I made a rough list here:
 
 "Tocsin Island"     : "Aperture Science"
 
+"Wanda Bree"        : "Wallace Breen"
+
 ---
 
 Here are some further archives of Marc Laidlaw's original post:
