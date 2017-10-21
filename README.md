@@ -3,6 +3,7 @@
 ![Open issues](https://img.shields.io/github/issues-raw/phoenix1747/MarcLaidlaw-Epistle3.svg?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/phoenix1747/MarcLaidlaw-Epistle3.svg?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/phoenix1747/MarcLaidlaw-Epistle3.svg?style=flat-square) ![Hype-Meter](https://img.shields.io/badge/hype-9000%2B-blue.svg?style=flat-square)
 
 This is a fork of Jackathan/MarcLaidlaw-Epistle3 where I try to maintain the whole thing and merge the original pull requests and stuff. 
+
 <b> So far this repository includes many of the original pull request, many additional translations, some minor improvements and the Epistle3 Afterthoughts by Marc Laidlaw. </b>
 
 ---
