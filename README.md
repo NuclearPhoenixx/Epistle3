@@ -1,7 +1,6 @@
-# Marc Laidlaw's Epistle3 blog entry
-<b>from August 25th, 2017.</b>
+# Marc Laidlaw Epistle3 (August 25th, 2017)
 
-![Open issues](https://img.shields.io/github/issues-raw/phoenix1747/MarcLaidlaw-Epistle3.svg?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/phoenix1747/MarcLaidlaw-Epistle3.svg?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/phoenix1747/MarcLaidlaw-Epistle3.svg?style=flat-square) ![Hype-Meter](https://img.shields.io/badge/hype-9000%2B-blue.svg?style=flat-square)
+![Open pr](https://img.shields.io/github/issues-pr-raw/phoenix1747/MarcLaidlaw-Epistle3.svg?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/phoenix1747/MarcLaidlaw-Epistle3.svg?style=flat-square) ![Hype-Meter](https://img.shields.io/badge/hype-9000%2B-blue.svg?style=flat-square)
 
 This was originally a fork of Jackathan/MarcLaidlaw-Epistle3, but I think there have been made enough changes that this stands out as it's own repository. Thanks to @Jackathan! I'm trying to maintain the whole thing and merge the original pull requests and stuff here. If the blog post or the tweets get deleted somehow, you can still read all the content here or at https://github.com/Jackathan/MarcLaidlaw-Epistle3 if this repo is too bloated for your taste.
 
