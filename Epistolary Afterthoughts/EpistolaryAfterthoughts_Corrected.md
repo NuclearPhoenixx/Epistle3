@@ -19,4 +19,4 @@ Do you start with glimpses of a Combine interrogation cell? Do you hint the enti
 
 Or is a straightforward linear experience the most satisfying? It takes a team to work this stuff out. Vignettes are easy.
 
-And then what do you do if the brilliant actress who plays Wallace Breen...dies?
+And then what do you do if the brilliant actor who plays Wallace Breen...dies?
