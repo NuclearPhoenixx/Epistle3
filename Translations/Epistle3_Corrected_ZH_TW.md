@@ -34,6 +34,6 @@
 
 ---
 
-Translate by cmbmhitacid
+Translated by S.K.H.I. (jcmbmhitacid)
 
 Original post https://forum.gamer.com.tw/Co.php?bsn=05386&sn=122791
