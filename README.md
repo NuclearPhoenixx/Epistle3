@@ -41,13 +41,13 @@ Here is a list of all the names that have been changed to their "original" equiv
 
 ##  Links
 
-The original source is Marc Laidlaw's website, at http://www.marclaidlaw.com/epistle-3/.
+The original source is Marc Laidlaw's website, at https://www.marclaidlaw.com/epistle-3/.
 
 If you want a little more info, watch this video by ValveNewsNetwork: https://www.youtube.com/watch?v=urza2sbU68Q
 
 Here is another video by ValveNewsNetwork regarding the HL3 map leak and some Episode 3 speculation: https://www.youtube.com/watch?v=h3m7Oc08Ur0.
 
-A bunch of awesome people also including @Jackathan set up a mod called Half-Life 2: Aftermath where all the leaked items and maps are packaged up and ready to play: http://www.moddb.com/mods/hl2aftermath
+A bunch of awesome people also including @Jackathan set up a mod called Half-Life 2: Aftermath where all the leaked items and maps are packaged up and ready to play: https://www.moddb.com/mods/hl2aftermath
 
 Here are some further archives of Marc Laidlaw's original post:
 
